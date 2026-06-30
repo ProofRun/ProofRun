@@ -1,8 +1,8 @@
 # ProofRun
 
-> **This repository has moved.** Active development continues at **[Loopvera/Loopvera](https://github.com/Loopvera/Loopvera)**. Please use the new repository for issues, contributions, and releases.
+> **This repository has moved.** Active development continues at **[LoopVera/LoopVera](https://github.com/LoopVera/LoopVera)**. Please use the new repository for issues, contributions, and releases.
 >
-> **本仓库已迁移。** 后续开发请前往 **[Loopvera/Loopvera](https://github.com/Loopvera/Loopvera)**。问题反馈、贡献与发布均在新仓库进行。
+> **本仓库已迁移。** 后续开发请前往 **[LoopVera/LoopVera](https://github.com/LoopVera/LoopVera)**。问题反馈、贡献与发布均在新仓库进行。
 
 ---
 
